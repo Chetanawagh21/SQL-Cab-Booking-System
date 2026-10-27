@@ -1,4 +1,4 @@
-# SQL-Cab-Booking-System
+# SQL PROJECT.sql
 SQL project for cab booking management and booking data analysis.
 # 🚖 SQL Cab Booking System
 
